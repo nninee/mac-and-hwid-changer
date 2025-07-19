@@ -6,10 +6,15 @@ windows 10, c++ compiler
 
 # installation 
 `git clone https://github.com/nninee/mac-and-hwid-changer.git`
+
 cloning repo
+
 `cd mac-and-hwid-changer`
+
 open folder
+
 `g++ changer.cpp -o changer`
+
 compile the code 
 
 # using
